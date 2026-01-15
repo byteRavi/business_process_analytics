@@ -1,0 +1,16 @@
+business-process-analytics/
+├── data/
+   > sample_operational_data.csv
+├── sql/
+   > data_extraction.sql
+   > kpi_analysis.sql
+├── python/
+   > data_cleaning.py
+   > automation_report.py
+├── documentation/
+   > business_requirements.md
+   > process_flow.md
+   > automation_opportunities.md
+├── dashboards/
+    > dashboard_mockup.png
+├── README.md
